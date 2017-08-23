@@ -1,0 +1,7 @@
+1. Clean OCR into html
+2. Add links to texts into html 
+3. Add translations of texts
+4. Copy Greek and Latin texts into folder texts in darcy/analysis/original_texts folder
+5. look for patterns in word usage in Greek and Latin
+6. Try Voyant tools
+7. Create spreadsheet for formal concept analysis
